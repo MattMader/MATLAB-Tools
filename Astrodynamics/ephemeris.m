@@ -24,7 +24,7 @@ function [R,V] = ephemeris(T_eph,useICRF)
 %
 % Information:
 %   Author: Matthew Mader
-%   Contact: maderm@purdue.edu
+%   Contact: matthewjmader@gmail.com
 %   Date: Feb 5, 2022
 %
 % Revision History:

@@ -11,7 +11,7 @@ function C = EA313toDCM(theta1,theta2,theta3)
 %
 % Information:
 %   Author: Matthew Mader
-%   Contact: maderm@purdue.edu
+%   Contact: matthewjmader@gmail.com
 %   Date: 21 Feb 2022
 %
 % Notes:

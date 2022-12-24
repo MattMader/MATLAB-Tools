@@ -12,7 +12,7 @@ function phi = phi_elpm(x, r_p, epsilon)
 %
 % Information:
 %   Author: Matthew Mader
-%   Contact: maderm@purdue.edu
+%   Contact: matthewjmader@gmail.com
 %   Date: 17 October 2021
 %
 % Notes:

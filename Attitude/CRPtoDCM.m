@@ -9,7 +9,7 @@ function C = CRPtoDCM(rho)
 %
 % Information:
 %   Author: Matthew Mader
-%   Contact: maderm@purdue.edu
+%   Contact: matthewjmader@gmail.com
 %   Date: 21 Feb 2022
 %
 % Notes:

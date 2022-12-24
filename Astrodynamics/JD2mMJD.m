@@ -11,7 +11,7 @@ function mMJD = JD2mMJD(JD)
 %
 % Information:
 %   Author: Matthew Mader
-%   Contact: maderm@purdue.edu
+%   Contact: matthewjmader@gmail.com
 %   Date: 18 Apr. 2022
 %
 % Revision History:

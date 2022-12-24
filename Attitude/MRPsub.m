@@ -10,7 +10,7 @@ function sigma3 = MRPsub(sigma1,sigma2)
 %
 % Information:
 %   Author: Matthew Mader
-%   Contact: maderm@purdue.edu
+%   Contact: matthewjmader@gmail.com
 %   Date: 21 Feb 2022
 %
 % Notes:

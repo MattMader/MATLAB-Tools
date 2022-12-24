@@ -11,7 +11,7 @@ function phi = phi_epm(x,r_p)
 %
 % Information:
 %   Author: Matthew Mader
-%   Contact: maderm@purdue.edu
+%   Contact: matthewjmader@gmail.com
 %   Date: 17 October 2021
 %
 % Notes:

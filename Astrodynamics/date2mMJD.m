@@ -12,7 +12,7 @@ function mMJD = date2mMJD(date,F)
 %
 % Information:
 %   Author: Matthew Mader
-%   Contact: maderm@purdue.edu
+%   Contact: matthewjmader@gmail.com
 %   Date: 6 Feb. 2022
 %
 % Revision History:

@@ -24,7 +24,7 @@ function coes = moes2coes(moes)
 %
 % Information:
 %   Author: Matthew Mader
-%   Contact: maderm@purdue.edu
+%   Contact: matthewjmader@gmail.com
 %   Date: 13 Mar 2022
 %
 %

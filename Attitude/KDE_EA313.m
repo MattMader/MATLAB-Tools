@@ -11,7 +11,7 @@ function theta_dot = KDE_EA313(theta,omega)
 %
 % Information:
 %   Author: Matthew Mader
-%   Contact: maderm@purdue.edu
+%   Contact: matthewjmader@gmail.com
 %   Date: 21 Feb 2022
 %
 % Notes:
